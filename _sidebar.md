@@ -16,7 +16,7 @@
 * [13. Create links to page, file and external link](md/13)
 * [14. Wepage using iframe tags](md/14)
 * [15. Internal style sheet implementation](md/15)
-
-* [© Naswih](https://naswih.tech/)
  
 * [Give a Star 🌟](http.//github.com/nasw1h/CS1-HTML)
+
+* [© Naswih](https://naswih.tech/)
