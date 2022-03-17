@@ -8,7 +8,7 @@
 * [3. Photo album](md/03)
 * [4. Partition of webpage using frame tag](md/04)
 * [5. Product details using table tag](md/05)
-* [6. 6. Student registration form](md/06)
+* [6. Student registration form](md/06)
 * [7. Course details using hyperlinks](md/07)
 * [8. University infrastructure](md/08)
 * [9. Train time table](md/09)
