@@ -1,8 +1,6 @@
 <!-- docs/_sidebar.md -->
 <h2><a style="text-decoratio.none" href="">&nbsp&nbsp HTML Lab Programs</a></h2>
 
-* [About](about)
-
 * [1. Collage webpage using basic text formatting tags](md/01)
 * [2. Image as a link](md/02)
 * [3. Photo album](md/03)
@@ -19,6 +17,6 @@
 * [14. Wepage using iframe tags](md/14)
 * [15. Internal style sheet implementation](md/15)
 
-* [Contact](contact)
-
+* [© Naswih](https://naswih.tech/)
+ 
 * [Give a Star 🌟](http.//github.com/nasw1h/CS1-HTML)
