@@ -16,6 +16,8 @@
 * [13. Create links to page, file and external link](program/13)
 * [14. Wepage using iframe tags](program/14)
 * [15. Internal style sheet implementation](program/15)
+
+* [Report an issue](https://github.com/naxwh/CS1-HTML/issues/new)
  
 * [Give a Star 🌟](http.//github.com/nasw1h/CS1-HTML)
 
